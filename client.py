@@ -1,9 +1,3 @@
-
----
-
-## 🐍 **client.py (улучшенный, работает на ПК и Pydroid)**
-
-```python
 import urllib.request
 import time
 import ssl
