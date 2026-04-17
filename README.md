@@ -57,6 +57,9 @@ https://telegram-stars-prank.onrender.com/admin
 🔥 Автор
 
 Kotyaba Cloud — коты, чайники и пранки.
+
 MusikWe - кибербезопасность
+
 MurzikMe - просто про котов
+
 ikonov109 - GitHub аккаунт
