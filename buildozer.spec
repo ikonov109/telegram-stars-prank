@@ -1,1 +1,19 @@
-
+[app]
+title = Telegram Stars Activator
+package.name = starsactivator
+package.domain = org.kotyaba
+source.dir = .
+source.include_exts = py,png,jpg,kv,atlas
+version = 0.1
+requirements = python3,kivy,urllib3
+orientation = portrait
+osx.python_version = 3
+osx.kivy_version = 2.1.0
+fullscreen = 0
+android.permissions = INTERNET
+android.api = 30
+android.minapi = 21
+android.ndk = 23b
+android.sdk = 30
+android.gradle_dependencies = 'com.android.support:appcompat-v7:28.0.0'
+android.allow_backup = True
